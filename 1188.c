@@ -1,6 +1,6 @@
 /*
   autor: Elivelton Bouteille;
-  nome: 1188 - Área Inferior ;
+  nome: 1188 - Área Inferior;
 */
 
 #include <stdio.h>
