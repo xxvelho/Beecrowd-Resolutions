@@ -6,7 +6,7 @@
 #include <stdio.h>
 
 int main(void){
-    int n, i, distancia = 0, t,v;
+    int n, i, distancia = 0, t, v;
     scanf("%d", &n);
 
     for(i=0; i<n; i++){
