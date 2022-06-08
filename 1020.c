@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1020 - Idade em Dias;
-*/
+// 1020 - Idade em Dias;
 
 #include <stdio.h>
 
