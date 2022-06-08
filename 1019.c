@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1019 - Conversão de Tempo;
-*/
+// 1019 - Conversão de Tempo;
 
 #include <stdio.h>
 
