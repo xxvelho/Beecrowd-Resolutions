@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1035 - Teste de Seleção 1;
-*/
+// 1035 - Teste de Seleção 1;
 
 #include <stdio.h>
 
