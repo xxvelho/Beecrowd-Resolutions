@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1044 - Múltiplos;
-*/
+// 1044 - Múltiplos;
 
 #include <stdio.h>
 
