@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1046 - Tempo de Jogo;
-*/
+// 1046 - Tempo de Jogo;
 
 #include <stdio.h>
 #include <stdlib.h>
