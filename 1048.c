@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1048 - Aumento de Salário;
-*/
+// 1048 - Aumento de Salário;
 
 #include <stdio.h>
 
