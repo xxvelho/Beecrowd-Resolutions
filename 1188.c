@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1188 - Área Inferior;
-*/
+// 1188 - Área Inferior;
 
 #include <stdio.h>
 #define TAM 12
