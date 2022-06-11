@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 2388 - Tacógrafo;
-*/
+// 2388 - Tacógrafo;
 
 #include <stdio.h>
 
