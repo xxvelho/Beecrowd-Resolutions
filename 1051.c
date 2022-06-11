@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1051 - Imposto de Renda;
-*/
+// 1051 - Imposto de Renda;
 
 #include <stdio.h>
 
