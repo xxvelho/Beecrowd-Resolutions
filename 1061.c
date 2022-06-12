@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1061 - Tempo de um Evento;
-*/
+// 1061 - Tempo de um Evento;
 
 #include <stdio.h>
 
