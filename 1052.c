@@ -1,13 +1,9 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1052 - Mês;
-*/
+// 1052 - Mês;
 
 #include <stdio.h>
 
 int main() {
   int n;
-
   scanf("%d", &n);
 
   switch(n){
