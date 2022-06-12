@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 2061 - As Abas de Péricles;
-*/
+// 2061 - As Abas de Péricles;
 
 #include <stdio.h>
 
