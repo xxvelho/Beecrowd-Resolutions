@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 3055 - Nota Esquecida;
-*/
+// 3055 - Nota Esquecida;
 
 #include <stdio.h>
 
