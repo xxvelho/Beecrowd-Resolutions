@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 3302 - Resposta Certa;
-*/
+// 3302 - Resposta Certa;
 
 #include <stdio.h>
 
