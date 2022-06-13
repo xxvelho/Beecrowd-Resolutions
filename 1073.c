@@ -1,14 +1,9 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1073 - Quadrado de Pares;
-*/
+// 1073 - Quadrado de Pares;
 
 #include <stdio.h>
 
 int main() {
-  
   int n, i;
-
   scanf("%d", &n);
 
   for(i = 1; i<=n;i++){
