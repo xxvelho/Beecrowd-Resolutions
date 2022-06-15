@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1078 - Tabuada;
-*/
+// 1078 - Tabuada;
 
 #include <stdio.h>
 
