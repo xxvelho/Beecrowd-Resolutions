@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1864 - Nossos Dias Nunca Voltarão;
-*/
+// 1864 - Nossos Dias Nunca Voltarão;
 
 #include <stdio.h>
 
