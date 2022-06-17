@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1154 - Idades;
-*/
+// 1154 - Idades;
 
 #include <stdio.h>
 
@@ -19,7 +16,6 @@ int main () {
       break;
     }
   }
-  
   media = (float) soma / div;
   printf("%.2f\n", media);
   
