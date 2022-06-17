@@ -1,18 +1,12 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1094 - Experiências;
-*/
-
+// 1094 - Experiências;
 
 #include <stdio.h>
 
 int main (){
-
   int n, i, num;
   char tipo;
   int cobaias = 0, coelhos = 0, ratos = 0, sapos = 0;
   float per_coelhos, per_ratos, per_sapos;
-
   
   scanf("%d", &n);
 
