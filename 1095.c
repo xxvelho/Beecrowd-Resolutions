@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1095 - Sequencia IJ 1;
-*/
+// 1095 - Sequencia IJ 1;
 
 #include <stdio.h>
 
