@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 2936 - Quanta Mandioca?;
-*/
+// 2936 - Quanta Mandioca?;
 
 #include <stdio.h>
 
