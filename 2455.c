@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 2455 - Gangorra;
-*/
+// 2455 - Gangorra;
 
 #include <stdio.h>
 
