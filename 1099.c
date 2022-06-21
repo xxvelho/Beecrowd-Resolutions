@@ -1,12 +1,8 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1099 - Soma de Ímpares Consecutivos II;
-*/
+// 1099 - Soma de Ímpares Consecutivos II;
 
 #include <stdio.h>
 
 int main(void) {
-
   int n, i;
   scanf("%d", &n);
 
@@ -21,10 +17,8 @@ int main(void) {
     for(i=a+1; i<b; i++){
       if(i%2!=0){
         soma += i;
-        
       }
     }
-
     printf("%d\n", soma);
   }
 
