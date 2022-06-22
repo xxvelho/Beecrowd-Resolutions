@@ -1,14 +1,9 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1132 - Múltiplos de 13;
-*/
-
+// 1132 - Múltiplos de 13;
 
 #include <stdio.h>
 
 int main (){
   int x, y, aux, i, soma = 0;
-
   scanf("%d %d", &x, &y);
 
   if(x>y){
