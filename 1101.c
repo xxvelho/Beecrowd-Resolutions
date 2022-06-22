@@ -1,14 +1,9 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1101 - Sequência de Números e Soma;
-*/
+// 1101 - Sequência de Números e Soma;
 
 #include <stdio.h>
 
 int main(){
-
 int m, n, i, aux, soma = 0;
-
 scanf("%d %d", &m,&n);
 
 while(m>0 && n>0){
@@ -26,7 +21,6 @@ for(i=m;i<=n;i++){
 printf("Sum=%d\n",soma);
 soma=0;
 scanf("%d %d", &m,&n);
-
 
 }
 
