@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1143 - Quadrado e ao Cubo;
-*/
+// 1143 - Quadrado e ao Cubo;
 
 #include <stdio.h>
 
