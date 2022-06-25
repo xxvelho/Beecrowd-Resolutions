@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1189 - Área Esquerda;
-*/
+// 1189 - Área Esquerda;
 
 #include <stdio.h>
 #define TAM 12
