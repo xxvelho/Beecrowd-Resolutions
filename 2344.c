@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 2344 - Notas da Prova;
-*/
+// 2344 - Notas da Prova;
 
 #include <stdio.h>
 
