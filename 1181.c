@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1181 - Linha na Matriz;
-*/
+// 1181 - Linha na Matriz;
 
 #include <stdio.h>
 #define TAM 12
