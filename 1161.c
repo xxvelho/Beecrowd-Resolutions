@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1161 - Soma de Fatoriais;
-*/
+// 1161 - Soma de Fatoriais;
 
 #include <stdio.h>
 
