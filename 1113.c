@@ -1,8 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1113 - Crescente e Decrescente;
-*/
-
+// 1113 - Crescente e Decrescente;
 
 #include <stdio.h>
 
