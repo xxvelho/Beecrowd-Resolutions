@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1157 - Divisores I;
-*/
+// 1157 - Divisores I;
 
 #include <stdio.h>
 
