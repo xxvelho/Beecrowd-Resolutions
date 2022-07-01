@@ -1,8 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1115 - Quadrante;
-*/
-
+// 1115 - Quadrante;
 
 #include <stdio.h>
 
