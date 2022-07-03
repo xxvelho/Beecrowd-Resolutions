@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1117 - Validação de Nota;
-*/
+// 1117 - Validação de Nota;
 
 #include <stdio.h>
 
