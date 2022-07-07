@@ -1,16 +1,10 @@
-
-/*
-  autor: Elivelton Bouteille;
-  nome: 1116 - Dividindo X por Y;
-*/
+// 1116 - Dividindo X por Y;
 
 #include <stdio.h>
 
 int main () {
-
   int i, n, x, y;
   float resultado;
-  
   scanf("%d", &n);
 
   for(i=0; i<n;i++){
@@ -21,7 +15,6 @@ int main () {
     }
     else if (y==0){
       printf("divisao impossivel\n");
-      
     }
     else{
       resultado = (float) x/y;
