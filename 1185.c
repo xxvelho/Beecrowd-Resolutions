@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1185 - Acima da Diagonal Secundária;
-*/
+// 1185 - Acima da Diagonal Secundária;
 
 #include <stdio.h>
 #define TAM 12
