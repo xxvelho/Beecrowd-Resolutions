@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1387 - Og;
-*/
+// 1387 - Og;
 
 #include <stdio.h>
 
