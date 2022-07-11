@@ -1,7 +1,4 @@
-/*
-  autor: Elivelton Bouteille;
-  nome: 1564 - Vai Ter Copa?;
-*/
+// 1564 - Vai Ter Copa?;
 
 #include <stdio.h>
 
