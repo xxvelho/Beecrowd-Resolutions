@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <string.h>
 
-//chave da funcao
+//prototipo da funcao
 char decoderCesar(char *s, int k);
 
 int main(){
